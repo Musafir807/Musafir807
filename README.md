@@ -13,3 +13,12 @@ It’s designed to simplify device usage while ensuring privacy, speed, and reli
 ```bash
 flutter build apk --release
 
+MIT License
+
+Copyright (c) 2025 MD.MEHEDI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+[বাকি অংশ GitHub templates থেকে auto generate করা যায়]
